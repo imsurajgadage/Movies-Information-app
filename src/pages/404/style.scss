@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .noResultImage {
+    object-fit: cover;
+    margin-top: 50px;
+    height: 50vh;
+  }
+}
